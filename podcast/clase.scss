@@ -1,0 +1,15 @@
+%clase{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 16px;
+    color: #060A24;
+}
+
+.menu1{
+    ul{
+        @extend %clase;
+    }
+}
+
+
+
+
